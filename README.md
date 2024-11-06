@@ -1,4 +1,3 @@
-<h1>:earth_americas: Hello World!</h1>
 <h3>:bar_chart: GitHub Stats:</h3>
 <div><br>
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/xgustavu?theme=midnight-purple&background=151515&cardType=level-alternate"/>
