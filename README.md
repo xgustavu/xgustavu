@@ -23,5 +23,3 @@
 </p>
 
 ![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=xgustavu)
-
-//![Snake animation](https://github.com/xgustavu/xgustavu/raw/output/github-contribution-grid-snake.svg)
